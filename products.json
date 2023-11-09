@@ -1,0 +1,32 @@
+[
+    {
+        "product_id": 8,
+        "product_name":" Cappuccino",
+        "product_price": 3,
+        "product_image": "images/Cappuccino.png"
+    },
+    {
+        "product_id": 7,
+        "product_name":" Espresso",
+        "product_price": 3,
+        "product_image": "images/espresso.jpg"
+    },
+    {
+        "product_id": 9,
+        "product_name":" Flatwhite",
+        "product_price": 4,
+        "product_image": "images/Flatwhite.jpg"
+    },
+    {
+        "product_id": 10,
+        "product_name":"Frappe",
+        "product_price": 3.4,
+        "product_image": "images/frappe.jpg"
+    },
+    {
+        "product_id": 6,
+        "product_name":" Mocha",
+        "product_price": 2.4,
+        "product_image": "images/mocha2.jpg"
+    }
+]
